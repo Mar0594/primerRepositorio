@@ -1,2 +1,0 @@
-# primerRepositorio
-Prueba
